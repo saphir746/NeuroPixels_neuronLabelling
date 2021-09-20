@@ -1,0 +1,14 @@
+/camp/lab/iacarusof/data/STPs/babs/outputs/gaia.bianchini/deborah.schneider-luftman/Depth_decoding_neurons/niceBars.m
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/Experiment_types.csv
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/Phase_design.m
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/fdr_bh.m
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/fisher_pvalue_comb.m
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/gauss_halfFilter.m
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/interim_data_FR.mat
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/label_neurons.m
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/plot_Gauss.m
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/spikes/analysis/helpers/histdiff.m
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/spikes/analysis/helpers/histdiff.mexa64
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/spikes/analysis/psthAndBA.m
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/spikes/analysis/timestampsToBinned.m
+/camp/stp/babs/working/schneid/projects/iacarusof/gaia.bianchini/Depth_decoding_neurons/spikes/visualization/helpers/rasterize.m
